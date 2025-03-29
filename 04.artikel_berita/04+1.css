@@ -1,0 +1,36 @@
+*{
+  font-family: arial;
+}
+
+h1{
+  font-size: 30px;
+}
+
+.artikel{
+  font-size: 20px;
+}
+.credit{
+  font-size: 12px;
+}
+.penulis{
+  color: #0A1ACA;
+}
+.tanggal{
+  color: #CA0A85;
+}
+
+#artikel-1{
+  color: #D20C0C;
+}
+p>span{
+  color: #EF5700;
+}
+
+h3+p{
+  color: #8E8F8E;
+}
+
+h1~p{
+  text-align: justify;
+  font-size: 14px;
+}
